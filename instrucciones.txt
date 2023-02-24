@@ -1,0 +1,27 @@
+npm init -y  para package.json
+
+
+npm i nodemon
+
+
+agregar en los scripts 
+"dev":"nodemon index.js",  npm run dev para correr
+    "start":"node index.js"
+
+
+npm i express
+
+npm install dotenv
+
+npm install express-validator
+
+db user: joamonb
+db pass: 8qAc0YmN5B064LY6
+
+npm i mongoose
+
+ npm i bcryptjs
+
+  npm i jsonwebtoken
+
+
