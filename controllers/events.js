@@ -8,7 +8,7 @@ const getEventos = async (req, res = express.response) => {
   try {
     res.status(201).json({
       ok: true,
-      msg: eventos,
+      eventos: eventos,
     });
   } catch (error) {
     console.log(error);
